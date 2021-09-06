@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=desertgamer&layout=compact&theme=tokyonight&locale=ru" />
 </a>
 <a href="https://wakatime.com/@a710a8e5-5f87-4a19-b5be-2bf13420aef4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=a710a8e5-5f87-4a19-b5be-2bf13420aef4&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@a710a8e5-5f87-4a19-b5be-2bf13420aef4&show_icons=true&theme=tokyonight" />
 </a> 
 
 <!--
