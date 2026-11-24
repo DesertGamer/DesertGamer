@@ -124,9 +124,9 @@ Discord bot with AI, card mechanics, tournaments and an economy system. Collecti
 <div align="center">
 
 <a href="https://github.com/DesertGamer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-<a href="https://discord.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://t.me/desertdev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+<a href="https://discord.com/users/297577892156669954"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+<a href="mailto:desert_gamer@icloud.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
 </div>
 
