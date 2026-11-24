@@ -11,13 +11,20 @@
 <img src="https://komarev.com/ghpvc/?username=DesertGamer&label=Profile+views&color=4F46E5&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/DesertGamer?style=for-the-badge&logo=github&color=6366F1&labelColor=1a1b27" alt="followers" />
 
+<br/><br/>
+
+<a href="https://github.com/DesertGamer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://t.me/desertdev"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: desert_gamer" />
+<a href="mailto:desert_gamer@icloud.com"><img src="https://img.shields.io/badge/EMAIL-4F46E5?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
+
 </div>
 
 ---
 
 ## 👨‍💻 About me
 
-- 🚀 Currently working on **Victory-V2**
+- 🚀 Currently working on [**VIctory-V2**](https://github.com/DesertGamer/VIctory-V2)
 - 🧩 Full-cycle development: Frontend, Backend, Game Dev and DevOps — turnkey
 - 🎮 Developing since 2014, starting with SAMP projects
 - 🏢 Experience with Riot Games community systems, HyperPC and Critical Reflex
